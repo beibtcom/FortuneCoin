@@ -1,0 +1,11 @@
+[Unit]
+Description=FortuneCoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=FortuneCoin
+ExecStart=/opt/FortuneCoin/FortuneCoind
+
+[Install]
+WantedBy=multi-user.target

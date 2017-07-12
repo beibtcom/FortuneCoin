@@ -1,0 +1,5 @@
+FortuneCoin-qt usr/bin
+share/pixmaps/FortuneCoin32.xpm usr/share/pixmaps
+share/pixmaps/FortuneCoin80.xpm usr/share/pixmaps
+debian/FortuneCoin-qt.desktop usr/share/applications
+debian/FortuneCoin-qt.protocol usr/share/kde4/services/

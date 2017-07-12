@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=FortuneCoin
+Comment=FortuneCoin P2P Cryptocurrency
+Comment[ru]=FortuneCoin, P2P криптовалюта
+Comment[fr]=FortuneCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=FortuneCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/FortuneCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/FortuneCoin80.xpm
+MimeType=x-scheme-handler/FortuneCoin;
+Categories=Office;

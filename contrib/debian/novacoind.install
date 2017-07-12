@@ -1,0 +1,2 @@
+debian/bin/FortuneCoind usr/bin
+src/FortuneCoind usr/lib/FortuneCoin

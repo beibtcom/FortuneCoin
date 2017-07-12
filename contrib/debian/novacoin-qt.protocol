@@ -1,0 +1,11 @@
+[Protocol]
+exec=FortuneCoin-qt '%u'
+protocol=FortuneCoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
